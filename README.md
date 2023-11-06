@@ -2,7 +2,7 @@
 
 # Dynamic Array Implementation in C++
 
-![GitHub](https://img.shields.io/github/license/SOMATECH-20/Cpp-repo?style=plastic&logo=Github) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/SOMATECH-20/Cpp-repo?style=plastic&logo=Github) ![GitHub repo size](https://img.shields.io/github/repo-size/SOMATECH-20/Cpp-repo?style=plastic&logo=Github&label=Size)
+![Static Badge](https://img.shields.io/badge/For_Education-%23000?style=plastic&logo=Github) ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/SOMATECH-20/Cpp-repo?style=plastic&logo=Github) ![GitHub repo size](https://img.shields.io/github/repo-size/SOMATECH-20/Cpp-repo?style=plastic&logo=Github&label=Size)
 
 
 This program is a basic implementation of a list data structure using dynamic arrays in C++. It includes operations for creating a list, inserting values at specific locations, updating values, copying the list, and displaying the list. The program also includes error handling for invalid operations such as inserting or updating at an invalid index, copying an empty list, and memory allocation failures.
