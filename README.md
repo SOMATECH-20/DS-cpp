@@ -1,4 +1,4 @@
-# Cpp-Repo
+# DS-cpp
 
 # Dynamic Array Implementation in C++
 
